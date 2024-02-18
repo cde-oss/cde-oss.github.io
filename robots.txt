@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://cde.xyz/sitemap.xml
